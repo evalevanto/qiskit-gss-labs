@@ -3,3 +3,5 @@
 __MACOSX/
 summer-school.png
 lecture-notes/
+grading_tools/
+__pycache__/
