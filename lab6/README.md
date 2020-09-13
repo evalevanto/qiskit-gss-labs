@@ -1,0 +1,2 @@
+## Lab 6: Qubit Drive: Rabi & Ramsey Experiments
+In this lab, you will take what you learned about qubit drive to perform Rabi and Ramsey experiment on a Pulse Simulator. The goal of this lab is to familiarize yourself with the important concepts of manipulating qubit states with microwave pulses.

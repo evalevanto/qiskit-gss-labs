@@ -1,0 +1,2 @@
+## Lab 9: Hardware-efficient trial states for variational quantum eigensolvers
+In this lab, we want to find the ground state energy of the following two-qubit Hamiltonian representing molecular H2 at its equilibrium distance.

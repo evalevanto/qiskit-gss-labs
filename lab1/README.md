@@ -1,0 +1,2 @@
+## Lab 1: Single-qubit and multi-qubit states, quantum teleportation
+In this lab, you will learn how to write Qiskit code and investigate single-qubit and multi-qubit states using the qpshere visualization that you learned in lecture 1.
